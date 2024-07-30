@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Social Media com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Fazer postagens com ia generativa.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpd, Canva e Adobe Photoshop
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de pronpts e copys com o chatgpd e gerando designs no canva e photoshop
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Belas postagens no instagram
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
